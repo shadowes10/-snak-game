@@ -1,3 +1,3 @@
 # -snak-game
 this is snake game by python 
-<h1> hallo/h1>
+<h1> hallo
